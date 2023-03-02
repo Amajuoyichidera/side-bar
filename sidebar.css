@@ -33,7 +33,7 @@ body {
   margin-bottom: 44px;
   display: flex;
   flex-direction: column;
-  /* align-items: center; */
+  align-items: center;
   gap: 20px;
 }
 .sidebar-header .uil-bars {
